@@ -1,5 +1,6 @@
 # VideoUploader4Tw
-Twitterに動画をアップロードして，その動画の `mediaId` を取得するシェルスクリプト
+Twitterに動画をアップロードして，その動画の `mediaId` を取得するシェルスクリプト．
+細かいことは https://lookbackmargin.home.blog/2019/11/08/np1m/ を参照
 
 ## 依存
 - `GET`
@@ -7,3 +8,4 @@ Twitterに動画をアップロードして，その動画の `mediaId` を取�
 - `recode` (`$ sudo apt install recode`)
 - `parsrx`
 - `kotoriotoko`
+
